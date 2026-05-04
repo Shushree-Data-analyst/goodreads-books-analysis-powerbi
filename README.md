@@ -58,7 +58,7 @@ Dataset includes:
 - Publication activity increased significantly after 1990
 
 ## Dashboard Preview
-![Goodreads Dashboard](dashboard.png)
+![Goodreads Dashboard](BookRead.png)
 
 ## Results & Conclusion
 This project demonstrates how Power BI can convert Goodreads book data into interactive dashboards for literary trend analysis and business storytelling.
