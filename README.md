@@ -40,7 +40,7 @@ Dataset includes:
 - Ratings Count
 
 ## Tool Used
-- Power BI
+- Tableau
 
 ## Dashboard Features
 - KPI Cards
